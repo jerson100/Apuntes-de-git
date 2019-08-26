@@ -13,3 +13,4 @@ git config --global user.email "juamkoo@gmail.com"
 git config --global core.editor nano
 git config --list
 ```
+Hola mundo 2
