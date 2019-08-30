@@ -20,3 +20,5 @@ git config --global core.editor nano
 git config --list
 ```
 Hola mundo 2
+
+Esta línea fue creada en la rama master.
